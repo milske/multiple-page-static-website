@@ -1,3 +1,32 @@
+body {
+  background-color: #f6e4ad;
+  margin: 100px;
+}
+
 h1 {
-  color: blue;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+p {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+}
+
+.link {
+  margin: 10px;
+  color: brown;
+}
+
+img {
+  display: block;
+  width: 55%;
+  margin: 0 auto;
+  border-radius: 5px;
 }
